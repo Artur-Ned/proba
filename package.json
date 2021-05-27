@@ -1,0 +1,23 @@
+{
+  "name": "proba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gallery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artur-Ned/proba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artur-Ned/proba/issues"
+  },
+  "homepage": "https://github.com/Artur-Ned/proba#readme",
+  "dependencies": {
+    "joi": "^17.4.0"
+  }
+}
